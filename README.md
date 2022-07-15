@@ -1,4 +1,4 @@
-# Employee - Smart program to calculate cost efficiency of company
+# Employee - Smart program to calculate cost efficiency of a company
 
 ## Table of Contents
 * [General Info](#general-information)
