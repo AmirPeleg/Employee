@@ -1,0 +1,7 @@
+.classpath
+.project
+build.fxbuild
+Company
+
+bin/*
+.settings/*
