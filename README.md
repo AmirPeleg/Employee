@@ -24,17 +24,26 @@ List the ready features here:
 
 
 ## Screenshots
-![Main screen screenshot](https://github.com/Kapaznik/Employee/blob/master/IMG/Main%20screen.png)
 
-![Program manu screenshot](https://github.com/Kapaznik/Employee/blob/master/IMG/Program%20manu.png)
+<p align="center">
+  <img width="300" height="300" src="https://github.com/Kapaznik/Employee/blob/master/IMG/Main%20screen.png">
+</p>
 
-![Add Employee screenshot](https://github.com/Kapaznik/Employee/blob/master/IMG/Add%20Employee.png)
+<p align="center">
+  <img width="300" height="300" src="https://github.com/Kapaznik/Employee/blob/master/IMG/Program%20manu.png">
+</p>
 
-![Exception handler screenshot](https://github.com/Kapaznik/Employee/blob/master/IMG/exception%20example%20add%20employee.png)
+<p align="center">
+  <img width="300" height="300" src="https://github.com/Kapaznik/Employee/blob/master/IMG/Add%20Employee.png">
+</p>
 
-![Company efficiency screenshot](https://github.com/Kapaznik/Employee/blob/master/IMG/Company%20efficiency.png)
+<p align="center">
+  <img width="300" height="300" src="https://github.com/Kapaznik/Employee/blob/master/IMG/exception%20example%20add%20employee.png">
+</p>
 
-
+<p align="center">
+  <img width="300" height="300" src="https://github.com/Kapaznik/Employee/blob/master/IMG/Company%20efficiency.png">
+</p>
 
 
 
