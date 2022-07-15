@@ -1,7 +1,7 @@
 .classpath
 .project
 build.fxbuild
-Company
+Company.dat
 
 bin/*
 .settings/*
