@@ -5,7 +5,6 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
